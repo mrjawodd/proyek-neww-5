@@ -9,6 +9,6 @@ Cara menjalankan:
 python3 game.py
 ```
 
-Ikuti instruksi di layar untuk memilih jalur: `jln Hos tcokro` atau `Gunung`.
+Ikuti instruksi di layar untuk memilih jalur: `jln Hos tcokro`, `Gunung`, `Kerajaan Iblis`, `Kerajaan Penjahat`, atau `Peperangan`.
 
 Selamat bermain!
